@@ -1,7 +1,7 @@
 # Proyecto de Práctica CARMEN REYES
 
 ## Requisitos
-- PHP 8+
+- PHP 7.4.33
 - Composer
 - MySQL
 
